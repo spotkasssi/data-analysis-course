@@ -1,0 +1,13 @@
+{
+  "decisions_rows": 6830,
+  "organizations_rows": 470,
+  "partial_lookup_rows": 469,
+  "left_join_rows": 6830,
+  "left_only_rows": 25,
+  "inner_join_rows": 6805,
+  "rows_lost_by_inner": 25,
+  "duplicate_lookup_join_rows": 6855,
+  "rows_added_by_duplicate_key": 25,
+  "expected_validation": "many_to_one",
+  "note": "Учебная неполная копия справочника: удалена первая строка lookup."
+}
